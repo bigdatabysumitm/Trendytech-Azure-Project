@@ -19,3 +19,5 @@
 
 # MAGIC %sql 
 # MAGIC select * from audit.load_logs
+
+#ok continue
