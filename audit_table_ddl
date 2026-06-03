@@ -6,3 +6,5 @@ CREATE TABLE IF NOT EXISTS audit.load_logs (
     watermarkcolumnname STRING,
     loaddate TIMESTAMP
 );
+
+Added a new feature called as feature1
